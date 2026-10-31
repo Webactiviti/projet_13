@@ -1,6 +1,8 @@
 # PORTFOLIO DATA ENGINEER
 
 **Webactiviti**  
+
+
 *Élève Data Engineer — Parcours OpenClassrooms (Bac+5 / RNCP Niveau 7)*  
 
 
@@ -17,50 +19,100 @@ Grâce à une série de projets pratiques basés sur des cas d'entreprise réels
 
 ## 2. PROJETS DE LA FORMATION OPENCLASSROOMS
 
-### Projet 1 : Conception d'une base de données relationnelle et modélisation SQL
-- **Objectif :** Analyser le besoin métier d'une entreprise, concevoir un modèle conceptuel et logique de données (MCD/MLD) et implémenter la base relationnelle.
+### Projet 2 : Analysez les données de système éducatifs
+- **Objectif :** 
 - **Réalisations :**
-  - Création du schéma d'informations normalisé (3NF) et rédaction des scripts DDL SQL.
-  - Implémentation des contraintes d'intégrité, indexations et requêtes complexes d'agrégation.
+  - 
 - **Technologies :** PostgreSQL, MySQL, SQL, draw.io / dbdiagram.io.
 
-### Projet 2 : Création d'un pipeline ETL automatisé en Python
-- **Objectif :** Extraire des données depuis diverses sources (APIs REST, fichiers CSV/JSON), les nettoyer et les charger dans un Data Mart.
-- **Réalisations :**
-  - Développement de scripts Python modularisés et gestion robuste des erreurs/logs.
-  - Transformation des données brutes et création de tables de faits et de dimensions (schéma en étoile).
-- **Technologies :** Python (Pandas, Requests), PostgreSQL, Docker.
+- **Sites :**  https://github.com/Webactiviti/projet_2
 
-### Projet 3 : Mise en place d'un Data Lake Cloud et traitement Big Data
-- **Objectif :** Stocker et traiter de volumineux jeux de données non structurés/semi-structurés dans un environnement Cloud.
+### Projet 3 : Entrainez-vous avec SQLcet créer votre BDD
+- **Objectif :** 
 - **Réalisations :**
-  - Configuration d'un Data Lake multi-couches (*Bronze, Silver, Gold*) sur Amazon S3 / Google Cloud Storage.
-  - Écriture de scripts PySpark pour traiter des gigaoctets de données de manière distribuée.
-  - Conversion des fichiers en formats optimisés pour les requêtes (Parquet / ORC).
-- **Technologies :** AWS (S3, Glue, Athena) ou GCP, Apache Spark (PySpark), Parquet.
+  - 
+- **Technologies :** 
 
-### Projet 4 : Orchestration de workflows de données avec Apache Airflow
-- **Objectif :** Remplacer des tâches manuelles et scripts cron par une orchestration centralisée et tolérante aux pannes.
+- **Sites :**  https://github.com/Webactiviti/projet_3
+
+### Projet 4 : Auditez un environnement de données
+- **Objectif :** 
 - **Réalisations :**
-  - Conception de DAGs Airflow complexes intégrant des opérateurs personnalisés et des capteurs (*sensors*).
-  - Gestion des dépendances, des retentatives automatiques et des alertes d'échec (Slack / Email).
-  - Validation automatique de la qualité des données avant injection (*Great Expectations*).
-- **Technologies :** Apache Airflow, Python, Docker, Great Expectations.
+  - 
+- **Technologies :** 
 
-### Projet 5 : Traitement de flux de données en Temps Réel (Streaming)
-- **Objectif :** Capturer et analyser un flux d'événements en temps réel pour alimenter un tableau de bord analytique.
+- **Sites :**  https://github.com/Webactiviti/projet_4
+
+### Projet 5 : Maintenez et documentez un système de stockage des données sécurisé et performant
+- **Objectif :** 
 - **Réalisations :**
-  - Déploiement d'un cluster Kafka pour la gestion des événements entrants.
-  - Traitement des données en continu via Spark Structured Streaming (agrégation par fenêtres glissantes).
-- **Technologies :** Apache Kafka, PySpark Structured Streaming, Docker Compose, Grafana.
+  - 
 
-### Projet 6 : Industrialisation et MLOps d'un pipeline Data
-- **Objectif :** Assurer la conteneurisation, le déploiement continu et la surveillance d'une chaîne de traitement de données.
+- **Sites :**  https://github.com/Webactiviti/projet_5
+
+### Projet 6 : Anticipez les besoins en consommation de bâtiments
+- **Objectif :** 
 - **Réalisations :**
-  - Écriture des fichiers Dockerfile et orchestration multi-services avec Docker Compose.
-  - Implémentation d'un pipeline CI/CD avec GitHub Actions (tests unitaires pytest, linters flake8/black).
-- **Technologies :** Docker, GitHub Actions, pytest, Terraform.
+  - 
+- **Technologies :** 
 
+- **Sites :**  https://github.com/Webactiviti/projet-6
+
+### Projet 7 : Concevez et analysez une base de données NoSQL
+- **Objectif :** 
+- **Réalisations :**
+  - 
+- **Technologies :** 
+
+- **Sites :**  https://github.com/Webactiviti/projet_7
+
+### Projet 8 : Construisez et testez une infrastructure de données 
+- **Objectif :** 
+- **Réalisations :**
+  - 
+- **Technologies :** 
+
+- **Sites :**  https://github.com/Webactiviti/projet_8
+
+### Projet 9 : Modélisez une infrastructure dans le cloud
+- **Objectif :** 
+- **Réalisations :**
+  - 
+- **Technologies :** 
+
+- **Sites :**  https://github.com/Webactiviti/projet_9
+
+### Projet 10 : Mettez en place un pipeline d'orchestration des flux
+- **Objectif :** 
+- **Réalisations :**
+  - 
+- **Technologies :** 
+
+- **Sites :**  https://github.com/Webactiviti/projet_10Bis
+
+### Projet 11 : Concevez et déployez un système RAG
+- **Objectif :** 
+- **Réalisations :**
+  - 
+- **Technologies :** 
+
+- **Sites :**  https://github.com/Webactiviti/projet_11
+
+### Projet 12 : 
+- **Objectif :** 
+- **Réalisations :**
+  - 
+- **Technologies :** 
+
+- **Sites :**  https://github.com/Webactiviti/projet_12
+
+### Projet 13 : Passez votre système IA du POC au MVP et réalisez votre portfolio de Data Engineer
+- **Objectif :** 
+- **Réalisations :**
+  - 
+- **Technologies :** 
+
+- **Sites :**  https://github.com/Webactiviti/projet_13
 ---
 
 
